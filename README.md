@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://Shreys1611.github.io/The-Drive/">
+  <a href="https://shreys1611.github.io/The-Drive/">
     ► Click Here to Play the Game Live! ◄
   </a>
 </h3>
